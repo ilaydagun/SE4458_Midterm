@@ -190,8 +190,8 @@ Each scenario was executed sequentially within the same test script.
 
 ## Screenshots
 
-![Buy Ticket Results](images\buy_ticket_load_test_results.png)
-![Query Flight Results](images\query_flight_load_test_results.png)
+![Buy Ticket Results](images/buy_ticket_load_test_results.png)
+![Query Flight Results](images/query_flight_load_test_results.png)
 
 ---
 
