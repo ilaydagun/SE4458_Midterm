@@ -1,0 +1,1 @@
+QUERY_FLIGHT_LIMIT = "3 per day"
