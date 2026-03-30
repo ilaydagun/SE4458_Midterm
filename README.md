@@ -302,4 +302,4 @@ The application is deployed on an AWS EC2 instance using Gunicorn and systemd.
 # Submission Links
 * Github Repository: https://github.com/ilaydagun/SE4458_Midterm
 * Deployed Swagger URL: http://63.178.228.72:5000/apidocs/
-* Demo Video: 
+* Demo Video: https://drive.google.com/drive/folders/1AWM1FgRnB8zJCZPgmtVbWPPawOTw1YpH?usp=sharing
