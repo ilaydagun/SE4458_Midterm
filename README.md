@@ -294,6 +294,6 @@ pytest
 ---
 
 # Submission Links
-* Github Repository:
+* Github Repository: https://github.com/ilaydagun/SE4458_Midterm
 * Deployed Swagger URL: http://63.178.228.72:5000/apidocs/
 * Demo Video: 
