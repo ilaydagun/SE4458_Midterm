@@ -290,3 +290,10 @@ pytest
 - SQLite is used for simplicity
 - Rate limiting exists but was disabled for load testing
 - k6 was used for performance testing
+
+---
+
+# Submission Links
+* Github Repository:
+* Deployed Swagger URL: http://63.178.228.72:5000/apidocs/
+* Demo Video: 
