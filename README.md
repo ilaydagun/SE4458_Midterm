@@ -285,6 +285,12 @@ pytest
 
 ---
 
+## Deployment
+
+The application is deployed on an AWS EC2 instance using Gunicorn and systemd.
+
+---
+
 ## Notes
 
 - SQLite is used for simplicity
